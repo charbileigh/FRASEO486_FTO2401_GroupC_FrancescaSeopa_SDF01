@@ -11,8 +11,6 @@ A brief description of what this project does and who it's for The purpose of th
 
 ## Demo
 
-Insert gif or link to demo
-
 Loom Presentation link:
 
 https://www.loom.com/share/6808e3f8cf294e08833681905d6a5163?sid=5333ca5f-b1f3-438f-be31-2e06be8e3902 
