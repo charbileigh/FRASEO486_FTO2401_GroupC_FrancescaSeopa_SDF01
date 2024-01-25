@@ -1,7 +1,7 @@
 
 # CodeSpace Cat HTML Portfolio
 
-A brief description of what this project does and who it's for The purpose of this project is to apply the basics of HTML that have been learnt in the introduction to HTML course. The basics (tags) form the basis or the skeleton of a upon which a website is built.
+The purpose of this project is to apply the basics of HTML that have been learnt in the introduction to HTML course. The basics (tags) form the basis or the skeleton of a upon which a website is built.
 
 
 ## Authors
